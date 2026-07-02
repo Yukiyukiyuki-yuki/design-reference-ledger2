@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Reference Ledger"
+  short_description: "Archive poster images into reusable Chinese design ledgers"
+  default_prompt: "Use $design-reference-ledger to archive these poster references with images, Chinese table fields, design commentary, and reusable design patterns."
